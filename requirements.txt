@@ -1,0 +1,11 @@
+nose
+sphinx
+biopython
+editdistance
+statistics
+matplotlib
+numpy
+scipy
+Pillow
+bitarray
+dnastorage
