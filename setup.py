@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 with open('LICENSE') as f:
     license = f.read()
 
-setup(
+setuptools.setup(
     name='dnapreview',
     version='0.9.2',
     author='James M. Tuck',
