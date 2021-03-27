@@ -4,7 +4,6 @@ biopython
 editdistance
 statistics
 matplotlib
-numpy
 scipy
 Pillow
 bitarray
