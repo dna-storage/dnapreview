@@ -6,5 +6,5 @@ statistics
 matplotlib
 scipy
 Pillow
-bitarray
+bitarray==1.9.2
 -e git+http://github.com/dna-storage/dnastorage.git@master#egg=dnastorage
