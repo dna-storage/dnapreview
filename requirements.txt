@@ -4,7 +4,7 @@ biopython==1.76
 editdistance==0.5.3
 statistics==1.0.3.5
 matplotlib
-scipy==1.6.2
+scipy
 Pillow==8.1.2
 bitarray==1.9.2
 dnastorage==0.9.4
