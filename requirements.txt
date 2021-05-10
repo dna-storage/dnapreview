@@ -7,4 +7,4 @@ matplotlib
 scipy
 Pillow==8.1.2
 bitarray==1.9.2
-dnastorage==0.9.4
+dnastorage==0.9.5
